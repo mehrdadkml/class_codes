@@ -1,2 +1,2 @@
 # class_codes
-## Week 1 : Algorithm and Data Structure.
+## Week 1 : Algorithms and Data Structure.
